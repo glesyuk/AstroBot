@@ -1,0 +1,14 @@
+{
+  "name": "astrobot",
+  "version": "1.0.0",
+  "description": "Bot for SpaceHub discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "a."
+  },
+  "author": "Myst",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
